@@ -1,0 +1,8 @@
+ingredients
+-canned soup
+
+directions
+1. open can
+2. pour into pot
+3. heat up on medium heat for 5 min 
+4. serve when warm
